@@ -6,14 +6,15 @@
 **Level**: Beginner  
 **Database**: `p1_retail_sales_db`
 
-This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
+This project demonstrates essential SQL skills used by data analysts to explore, clean, and analyze retail sales data. It includes database setup, basic data cleaning, and exploratory data analysis (EDA). Business-focused queries are used to extract meaningful insights. The project helps beginners build a strong foundation in SQL for data analysis.
 
 ## Objectives
 
-1. **Set up a retail sales database**: Create and populate a retail sales database with the provided sales data.
-2. **Data Cleaning**: Identify and remove any records with missing or null values.
-3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
-4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
+1. **Set Up a Retail Sales Database**: Created and populated a retail sales database using the provided dataset.  
+2. **Data Cleaning**: Identified and handled missing or null values to ensure data accuracy.  
+3. **Exploratory Data Analysis (EDA)**: Analyzed the data to understand patterns, trends, and distributions.  
+4. **Business Analysis**: Used SQL queries to answer business questions and extract meaningful insights from sales data.  
+
 
 ## Project Structure
 
@@ -189,10 +190,10 @@ GROUP BY shift
 
 ## Findings
 
-- **Customer Demographics**: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
-- **High-Value Transactions**: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
-- **Sales Trends**: Monthly analysis shows variations in sales, helping identify peak seasons.
-- **Customer Insights**: The analysis identifies the top-spending customers and the most popular product categories.
+- **Customer Demographics**: Customers belong to different age groups, with purchases spread across categories like Clothing and Beauty.  
+- **High-Value Transactions**: Multiple transactions exceed a total sales value of 1000, indicating high-ticket purchases.  
+- **Sales Trends**: Monthly analysis reveals fluctuations in sales, helping identify peak demand periods.  
+- **Customer Insights**: Highlights top-spending customers and the most frequently purchased product categories.  
 
 ## Reports
 
